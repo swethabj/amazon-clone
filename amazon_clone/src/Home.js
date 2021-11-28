@@ -26,7 +26,7 @@ function Home() {
                         <Product 
                                  id = "2"
                                  title="Cosmic Byte GS410 Wired Headphones with Mic and for PS5, PS4, Xbox One, Laptop, PC, iPhone and Android Phones (Black/Blue, Pack Of 1)"
-                                 price ={749.00} 
+                                 price ={780} 
                                  rating = {3}
                                  image = {headset}
                         />
@@ -35,21 +35,21 @@ function Home() {
                         <Product 
                                  id = "3"
                                  title="Zebronics Zeb-Transformer-M Optical USB Gaming Mouse with LED Effect(Black)"
-                                 price ={1549.00} 
+                                 price ={495.00} 
                                  rating = {4}
                                  image = {mouse}
                         />
                         <Product 
                                  id = "4"
                                  title="Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)"
-                                 price ={1549.00} 
+                                 price ={200} 
                                  rating = {2}
                                  image = {lapi}
                         />
                         <Product 
                                  id = "5"
                                  title="Razer Huntsman Mini 60% Gaming Keyboard: Fastest Keyboard Switches Ever - Clicky Optical Switches - Chroma RGB Lighting - PBT Keycaps - Onboard Memory - Classic Black"
-                                 price ={1549.00} 
+                                 price ={4000.00} 
                                  rating = {5}
                                  image = {keyboard}
                         />
@@ -58,7 +58,7 @@ function Home() {
                 <Product 
                                  id = "6"
                                  title="Nintendo Switch with Neon Blue and Neon Red Joy‑Con - HAC-001(-01)"
-                                 price ={1549.00} 
+                                 price ={3650.00} 
                                  rating = {5}
                                  image = {setbox}
                         />
